@@ -1,0 +1,53 @@
+[
+    {
+      "pergunta": "O que significa a sigla IoT?",
+      "opcoes": ["A) Internet das Coisas", "B) Internet da tecnologia", "C) Informações das coisas", "D) Interconexão de Telemetria"],
+      "resposta": "A"
+    },
+    {
+      "pergunta": "O que é Wi-fi em uma palavra?",
+      "opcoes": ["A) Conectividade", "B) Internet", "C) Busca", "D) Frequência"],
+      "resposta": "A"
+    },
+    {
+      "pergunta": "Qual das alternativas é de fato uma das principais funções de um SO (Sistema Operacional)?",
+      "opcoes": ["A) Gerenciamento de objetos físicos", "B) Controlar arquivos e pastas", "C) Gerenciamento de telefonia móvel", "D) Interface com o usuário de redes sociais"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "Qual é a diferença de memória cache e memória virtual?",
+      "opcoes": ["A) Cache é rápida e pequena; virtual é lenta e no disco", "B) Cache é lenta; virtual é rápida", "C) Cache fica no disco; virtual na CPU", "D) Cache amplia RAM; virtual substitui CPU"],
+      "resposta": "A"
+    },
+    {
+      "pergunta": "Dentre as funções executadas pelo processador de um microcomputador, pode-se citar a de:",
+      "opcoes": ["A) Armazenamento temporário de programas aplicativos", "B) Armazenamento permanente de programas aplicativos", "C) Busca de instruções na memória", "D) Interface entre o usuário e o hardware"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "Qual é a finalidade de um firewall em uma rede de computadores?",
+      "opcoes": ["A) Aumentar a velocidade de conexão", "B) Proteger contra acessos não autorizados", "C) Melhorar a resolução da tela", "D) Instalar programas automaticamente"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "O que é um navegador (browser)?",
+      "opcoes": ["A) Um tipo de servidor", "B) Um programa para acessar a internet", "C) Uma linguagem de programação", "D) Um cabo de rede"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "Para que serve o protocolo DNS?",
+      "opcoes": ["A) Conectar fisicamente dois dispositivos", "B) Traduzir nomes de domínio em endereços IP", "C) Bloquear sites maliciosos", "D) Aumentar a largura de banda da conexão"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "Um arquivo .exe normalmente é usado para:",
+      "opcoes": ["A) Arquivos compactados", "B) Instalar ou executar programas no Windows", "C) Imagens vetoriais", "D) Planilhas eletrônicas"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "O que é a computação em nuvem (cloud computing)?",
+      "opcoes": ["A) Salvar dados em pen drives", "B) Usar servidores remotos via internet para armazenar e processar dados", "C) Instalar programas pesados no computador", "D) Transferência de arquivos via cabo"],
+      "resposta": "B"
+    }
+  ]
+  

@@ -1,0 +1,103 @@
+[
+
+    {
+
+        "pergunta": "Qual é a principal função de um hypervisor em virtualização?",
+
+        "opcoes": ["A) Gerenciar e isolar máquinas virtuais", "B) Armazenar arquivos em nuvem", "C) Substituir o sistema operacional principal", "D) Executar apenas aplicativos do host"],
+
+        "resposta": "A"
+
+    },
+
+    {
+
+        "pergunta": "O que é o protocolo HTTPS?",
+
+        "opcoes": ["A) Um substituto do FTP para envio de e-mails", "B) Um protocolo usado exclusivamente para redes internas", "C) Uma versão segura do HTTP com criptografia SSL/TLS", "D) Um software de firewall embutido no navegador"],
+
+        "resposta": "C"
+
+    },
+
+    {
+
+        "pergunta": "Qual é a principal vantagem dos bancos de dados NoSQL sobre os relacionais?",
+
+        "opcoes": ["A) Melhor suporte exclusivo a SQL", "B) Maior flexibilidade para dados não estruturados ", "C) Suporte nativo a planilhas do Excel", "D) Uso obrigatório de tabelas e chaves primárias"],
+
+        "resposta": "B"
+
+    },
+
+    {
+
+        "pergunta": "Em computação em nuvem, o modelo IaaS fornece:",
+
+        "opcoes": ["A) Infraestrutura como serviço: servidores, rede e armazenamento", "B) Apenas software pronto para o usuário final", "C) Aplicativos de produtividade, como e-mail e calendário", "D) Serviço exclusivo para backup local"],
+
+        "resposta": "A"
+
+    },
+
+    {
+
+        "pergunta": "O que é machine learning (aprendizado de máquina)?",
+
+        "opcoes": ["A) Processo de atualizar automaticamente o hardware do computador", "B) Sistema que funciona apenas com entrada de voz pré-programada", "C) Método de instalar manualmente algoritmos em computadores", "D) Técnica em que sistemas aprendem padrões a partir de dados sem serem explicitamente programados"],
+
+        "resposta": "D"
+
+    },
+
+    {
+
+        "pergunta": "O que é um container em DevOps?",
+
+        "opcoes": ["A) Um tipo de banco de dados", "B) Um ambiente isolado para executar aplicações com todas as suas dependências", "C) Um hardware usado em servidores", "D) Um protocolo de segurança para VPN"],
+
+        "resposta": "B"
+
+    },
+
+    {
+
+        "pergunta": "Em redes, o que representa o protocolo BGP?",
+
+        "opcoes": ["A) Um sistema de arquivos distribuído", "B) Um protocolo de backup de bancos de dados", "C) Um protocolo de roteamento entre sistemas autônomos na internet", "D) Um mecanismo de autenticação de dois fatores"],
+
+        "resposta": "C"
+
+    },
+
+    {
+
+        "pergunta": "Qual tecnologia é usada para criar aplicações de página única (SPA)?",
+
+        "opcoes": ["A) Python com Django", "B) React, Angular ou Vue.js", "C) Java com Spring Boot", "D) Bash Script"],
+
+        "resposta": "B"
+
+    },
+
+    {
+
+        "pergunta": "O que caracteriza uma blockchain?",
+
+        "opcoes": ["A) Um banco de dados relacional com SQL avançado", "B) Um modelo de armazenamento centralizado", "C) Um sistema distribuído e imutável de registros em blocos ligados criptograficamente", "D) Uma linguagem de programação para mineração de dados"],
+
+        "resposta": "C"
+
+    },
+
+    {
+
+        "pergunta": "Qual é a principal característica do Kubernetes?",
+
+        "opcoes": ["A) Gerenciar redes Wi-Fi corporativas", "B) Monitorar atividades de usuários em tempo real", "C) Orquestrar containers e escalar aplicações automaticamente", "D) Controlar o tráfego de entrada em firewalls físicos"],
+
+        "resposta": "C"
+
+    }
+
+]

@@ -1,0 +1,53 @@
+[
+    {
+      "pergunta": "O que é um computador?",
+      "opcoes": ["A) Um tipo de telefone", "B) Um aparelho de TV", "C) Uma máquina que processa informações", "D) Um reprodutor de música"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "Para que serve o teclado?",
+      "opcoes": ["A) Controlar o volume", "B) Inserir textos e comandos", "C) Desligar o monitor", "D) Recarregar o mouse"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "O que é um mouse?",
+      "opcoes": ["A) Um tipo de vírus", "B) Um microfone", "C) Um dispositivo de entrada que move o cursor", "D) Um botão de ligar"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "O que é a internet?",
+      "opcoes": ["A) Uma marca de computador", "B) Um jogo de vídeo game", "C) Uma rede mundial de computadores conectados", "D) Um tipo de software antivírus"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "Qual programa usamos para escrever textos?",
+      "opcoes": ["A) Excel", "B) Word", "C) Paint", "D) Chrome"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "O que é um arquivo?",
+      "opcoes": ["A) Uma tecla do teclado", "B) Um botão do mouse", "C) Um conjunto de dados armazenados", "D) Um tipo de cabo"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "Para que serve a impressora?",
+      "opcoes": ["A) Para navegar na internet", "B) Para digitar textos", "C) Para imprimir documentos", "D) Para assistir vídeos"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "O que é o botão 'Iniciar' no Windows?",
+      "opcoes": ["A) Um jogo", "B) Um navegador", "C) O menu principal do sistema operacional", "D) Um antivírus"],
+      "resposta": "C"
+    },
+    {
+      "pergunta": "O que é um navegador de internet?",
+      "opcoes": ["A) Um tipo de vírus", "B) Um programa para acessar sites", "C) Um programa para digitar textos", "D) Um botão do teclado"],
+      "resposta": "B"
+    },
+    {
+      "pergunta": "Como é chamado o local onde ficam armazenados os arquivos no computador?",
+      "opcoes": ["A) Tela", "B) Teclado", "C) Pasta ou diretório", "D) Wi-Fi"],
+      "resposta": "C"
+    }
+  ]
+  
