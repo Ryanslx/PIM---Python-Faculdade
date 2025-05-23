@@ -33,5 +33,12 @@
         "local": "vista triste",
         "acertos": 10,
         "total_perguntas": 10
+    },
+    {
+        "nome": "ryan",
+        "idade": 21,
+        "local": "sla",
+        "acertos": 7,
+        "total_perguntas": 10
     }
 ]
